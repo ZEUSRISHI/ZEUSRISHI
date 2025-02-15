@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rishikeshan K</h1>
 <h3 align="center">Full-Stack Developer | Passionate About Scalable and Secure Web Applications</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=zeusrishi&label=Profile%20views&color=0e75b6&style=flat" alt="zeusrishi" /> 
+<p align="center">
+  <a href="https://github.com/zeusrishi">
+    <img src="https://komarev.com/ghpvc/?username=zeusrishi&label=Profile%20views&color=0e75b6&style=flat" alt="zeusrishi" />
+  </a>
+  <a href="https://leetcode.com/u/22ALR079/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=orange" alt="LeetCode" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishikeshan-k-490248259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/zeusrishi?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-100000?style=flat&logo=github&logoColor=white" alt="Projects" />
+  </a>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zeusrishi&theme=onedark" alt="zeusrishi" />
-  </a> 
-</p>
+---
 
 ### 🚀 About Me
 - 🔭 I’m currently working on [Full-Stack Food Delivery Website](https://food-frontend-qabn.onrender.com/#app-download)
@@ -23,18 +30,21 @@
 
 ### 🏆 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/?username=your-leetcode-username&theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+  <img src="https://leetcode.card.workers.dev/?username=22ALR079&theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/rishikeshan-k-490248259" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikeshan k" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/rishikeshan-k-490248259/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  <a href="https://leetcode.com/u/22ALR079/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://github.com/zeusrishi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
@@ -78,6 +88,25 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeusrishi&show_icons=true&theme=dark" alt="zeusrishi" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeusrishi&theme=dark" alt="zeusrishi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeusrishi&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeusrishi&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zeusrishi&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📌 Pinned Repositories
+<p align="center">
+  <a href="https://github.com/zeusrishi/full-stack-food-delivery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusrishi&repo=full-stack-food-delivery&theme=dark" alt="Food Delivery Repo" />
+  </a>
+  <a href="https://github.com/zeusrishi/reddit-sentiment-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusrishi&repo=reddit-sentiment-analysis&theme=dark" alt="Reddit Sentiment Analysis Repo" />
+  </a>
 </p>
