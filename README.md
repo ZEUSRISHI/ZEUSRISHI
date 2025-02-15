@@ -94,13 +94,6 @@
 
 ---
 
-### 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeusrishi&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📌 Pinned Repositories
 <p align="center">
   <a href="https://github.com/zeusrishi/full-stack-food-delivery">
