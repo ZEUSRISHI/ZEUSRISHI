@@ -97,10 +97,10 @@
 
 ### 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/zeusrishi/full-stack-food-delivery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusrishi&repo=full-stack-food-delivery&theme=dark" alt="Food Delivery Repo" />
+  <a href="https://github.com/zeusrishi/example-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusrishi&repo=example-repo-1&theme=dark" alt="Example Repo 1" />
   </a>
-  <a href="https://github.com/zeusrishi/reddit-sentiment-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusrishi&repo=reddit-sentiment-analysis&theme=dark" alt="Reddit Sentiment Analysis Repo" />
+  <a href="https://github.com/zeusrishi/example-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusrishi&repo=example-repo-2&theme=dark" alt="Example Repo 2" />
   </a>
 </p>
