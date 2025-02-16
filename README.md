@@ -30,7 +30,7 @@
 
 ### 🏆 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/?username=22ALR079&theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/22ALR079?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
 
 ---
