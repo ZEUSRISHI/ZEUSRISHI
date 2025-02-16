@@ -43,6 +43,9 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/22ALR079?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/22ALR079?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+</p>
 
 ---
 
@@ -101,6 +104,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZEUSRISHI&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEUSRISHI&theme=dark" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/ZEUSRISHI" alt="Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZEUSRISHI&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEUSRISHI&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEUSRISHI&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://ghchart.rshah.org/ZEUSRISHI" alt="Contribution Graph" />
 </p>
 
