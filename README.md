@@ -35,7 +35,7 @@
 - 👯 I’m looking to collaborate on **exciting full-stack projects**
 - 💬 Ask me about **React, Node.js, and MongoDB**
 - 📫 How to reach me: **zeus94424@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1Gw8ZohJSzd5vFIrE68QAWOYGrLTlVwEP/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10MhMfvISBX53OqefBGebVT9V2sm8PVHd/view?usp=sharing)
 
 ---
 
