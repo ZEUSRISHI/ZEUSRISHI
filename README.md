@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rishikeshan K</h1>
-<h3 align="center">Full-Stack Developer | Passionate About Scalable and Secure Web Applications</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+  Hi, I'm <span style="color:#FF5733; background: linear-gradient(90deg, #FF5733, #FFC300); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Rishikeshan K</span> 👨‍💻
+</h1>
+<h3 align="center" style="color:#36BCF7; font-weight: bold;">
+  🚀 Full Stack Developer | 🤖 AI Engineer | 🔍 Tech Explorer
+</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🖥;AI+Engineer+🤖;Tech+Explorer+🔍;Open+Source+Contributor+💡;Innovation+Driven+🔥"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/zeusrishi">
