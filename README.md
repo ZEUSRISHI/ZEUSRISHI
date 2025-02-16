@@ -97,10 +97,10 @@
 
 ### 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/zeusrishi/example-repo-1">
+  <a href="https://github.com/ZEUSRISHI/FOOD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusrishi&repo=example-repo-1&theme=dark" alt="Example Repo 1" />
   </a>
-  <a href="https://github.com/zeusrishi/example-repo-2">
+  <a href="https://github.com/ZEUSRISHI/BDA_proj">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeusrishi&repo=example-repo-2&theme=dark" alt="Example Repo 2" />
   </a>
 </p>
